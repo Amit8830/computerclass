@@ -54,7 +54,7 @@ export function MoreAboutSection(props) {
           computer education at an affordable fee so that even weaker section of
           the society can take it’s benefit and make their career bright. <br />
           *Certificate is provided from government recognized and ISO certified
-          board which is applicable all over India
+          board which is applicable all over India.
           {<br />}
           <br />
           <h3>
@@ -62,9 +62,19 @@ export function MoreAboutSection(props) {
           </h3>
           <p>
             {" "}
-            STALWARTS COMPUTER INSTITUTE.
-            Bondaya Building, shop no: 1, BNN college road, opp. Of Andra-Union
-            Bank, Near 90-degree cake shop. Bhiwandi, 421302.
+            STALWARTS COMPUTER INSTITUTE. Bondaya Building, shop no: 1, BNN
+            college road, opp. Of Andra-Union Bank, Near 90-degree cake shop.
+            Bhiwandi, 421302.{" "}
+            <a
+              class="PDvGL q8cvFf"
+              href="tel:+91-90222-91483"
+              data-tracking-element-type="3"
+              jslog="56037; track:impression,click"
+              itemprop="telephone"
+              dir="ltr"
+            >
+              <h4>Contact: 9022291483</h4>{" "}
+            </a>
           </p>
           {<br />} <b>😊FACULTY DETAILS😊 </b> {/* {<br />} */}
           {<br />}*High educated faculty is provided for training QUALIFICATION:
