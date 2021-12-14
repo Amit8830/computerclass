@@ -4,6 +4,7 @@ import styled from "styled-components";
 import { SectionTitle } from "../../components/sectionTitle";
 
 import AboutImgUrl from "../../assets/illustrations/rocket_launch_.png";
+// import "../../App.css";
 
 const MoreAboutContainer = styled(Element)`
   min-height: 500px;
@@ -74,6 +75,24 @@ export function MoreAboutSection(props) {
               dir="ltr"
             >
               <h4>Contact: 9022291483</h4>{" "}
+            </a>
+            <a
+              href="https://wa.me/919022291483"
+              class="whatsapp_float"
+              target="_blank"
+            >
+              {" "}
+              <i class="fa fa-whatsapp whatsapp-icon"></i> Click Here for Whatsapp
+            </a>
+            <a
+              class="PDvGL q8cvFf"
+              href="tel:+91-70639-46962"
+              data-tracking-element-type="3"
+              jslog="56037; track:impression,click"
+              itemprop="telephone"
+              dir="ltr"
+            >
+              <h4>Contact: 7063946962</h4>{" "}
             </a>
           </p>
           {<br />} <b>😊FACULTY DETAILS😊 </b> {/* {<br />} */}
